@@ -1,2 +1,2 @@
 # trevor-knowles-tutorService
-Empowering academic success through personalize guidance
+Empowering academic success through personalized guidance
